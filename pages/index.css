@@ -189,6 +189,7 @@
 
 .reservation__title {
   margin-top: 100px;
+  margin-bottom: 80px;
   padding: 0;
   text-align: center;
   font-weight: 500;
@@ -197,7 +198,6 @@
 }
 
 .reservation__form {
-  margin-top: 80px;
   margin-bottom: 120px;
 }
 
