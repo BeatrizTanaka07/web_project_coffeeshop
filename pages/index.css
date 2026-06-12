@@ -185,12 +185,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-top: 100px;
 }
 
 .reservation__title {
-  margin-top: 100px;
-  margin-bottom: 80px;
   padding: 0;
+  margin: 0;
   text-align: center;
   font-weight: 500;
   font-size: 44px;
@@ -198,6 +198,7 @@
 }
 
 .reservation__form {
+  margin-top: 80px;
   margin-bottom: 120px;
 }
 
